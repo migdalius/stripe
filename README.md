@@ -1,0 +1,2 @@
+# stripe
+ Zadanie rekrutacyjne
